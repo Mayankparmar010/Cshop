@@ -44,8 +44,4 @@ The dataset includes:
 - scikit-learn (if clustering is applied)
 
 
----
 
-Feel free to replace `yourusername` with your actual GitHub username and update the license section if you're using something other than MIT.
-
-Would you like me to generate a `LICENSE` file or help create a `.gitignore` too?
